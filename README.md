@@ -1,8 +1,7 @@
 
 ### Hey there, I'm Rocky! 👋
 <p>
-
-Hey, I'm Rocky! Located in Toronto, Canada. I am passionate about simplifying life via software! 
+Located in Toronto, Canada. I am a CS Student passionate about simplifying life via software! 
 
 ### I'm an aspiring Software Engineer!
 - 💻 My go-to languages are Javascript, Python, and Java. 
