@@ -14,8 +14,10 @@ Hey, I'm Rocky! Located in Toronto, Canada. I am passionate about simplifying li
 
 </p>
 
+---
+
 <details>
-<summary>⚡ What I'm Working On</summary>
+<summary>What I'm Working On ⚡</summary>
 <p>
     
 ### Portfolio Page (Revised):
@@ -30,7 +32,7 @@ Hey, I'm Rocky! Located in Toronto, Canada. I am passionate about simplifying li
 </details>
 
 <details>
-<summary>📫 Contact Me</summary>
+<summary>Contact Me 📫 </summary>
 
  - Site: https://www.rockykuang.me/
  - Email: RockyKuang@Protonmail.com
@@ -38,7 +40,7 @@ Hey, I'm Rocky! Located in Toronto, Canada. I am passionate about simplifying li
 </details>
 
 <details>
-  <summary>💻 GitHub Statistics</summary>
+  <summary>GitHub Statistics 💻</summary>
   <img align="left" alt="Rocky's GitHub Stat" src="https://github-readme-stats.codestackr.vercel.app/api?username=RockyLogic&show_icons=true&hide_border=true" />
 </details>
 
