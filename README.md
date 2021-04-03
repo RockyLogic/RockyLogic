@@ -23,7 +23,7 @@ Located in Toronto, Canada. I am a CS Student passionate about simplifying life 
 - React.Js, Node.js, Javascript
   
 ### Cypress: Live Incident Reporting & Tracking Web App
-- React.Js & Redux, Node.js, Firebase, Google Maps API
+- React.Js & Redux, Node.js, Firebase, Mapbox API
 
 ### ...
 
