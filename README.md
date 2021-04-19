@@ -3,7 +3,7 @@
 <p>
 Located in Toronto, Canada. I am a CS Student passionate about simplifying life via software! 
 
-### I'm an aspiring Software Engineer!
+### Aspiring Software Engineer!
 - 💻 My go-to languages are Javascript, Python, and Java. 
 - 📚 Currently exploring Elixir & Typescript. 
 - 📌 Also diving into deep learning.
