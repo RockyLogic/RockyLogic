@@ -45,4 +45,4 @@ Located in Toronto, Canada. I am a CS Student passionate about simplifying life 
 
 ---
 
-“Anyone who has never made a mistake has never tried anything new.” - Albert Einstein 
+“Anyone who has never made a mistake has never tried anything new.” - A.Einstein 
