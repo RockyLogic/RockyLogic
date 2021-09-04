@@ -22,8 +22,11 @@ Located in Toronto, Canada. I am a CS Student passionate about simplifying life 
 ### Portfolio Page (Revised):
 - React.Js, Node.js, Javascript
   
-### Cypress: Live Incident Reporting & Tracking Web App
-- React.Js & Redux, Node.js, Firebase, Mapbox API
+### Automated NFT Minting with multiple wallets
+- Typescript
+  
+### Algorithmetic crypto trading, based on moving averages (MA) and relative strenght index (RSI)
+- Python
 
 ### ...
 
