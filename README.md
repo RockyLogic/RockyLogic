@@ -33,18 +33,7 @@ Located in Toronto, Canada. I am a CS Student passionate about simplifying life 
 </p>
 </details>
 
-<details>
-<summary>Contact Me 📫 </summary>
 
- - Site: https://www.rockykuang.me/
- - Email: RockyKuang@Protonmail.com
- - Linkedin: https://www.linkedin.com/in/rocky-kuang/
-</details>
-
-<details>
-  <summary>GitHub Statistics 💻</summary>
-  <img align="left" alt="Rocky's GitHub Stat" src="https://github-readme-stats.codestackr.vercel.app/api?username=RockyLogic&show_icons=true&hide_border=true" />
-</details>
 
 ---
 
