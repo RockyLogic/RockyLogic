@@ -9,7 +9,7 @@ Located in Toronto, Canada. I am a CS Student passionate about simplifying life 
 - 📌 Also diving into deep learning.
 - 🤝 Looking to collaborate on new projects with other developers
 - 🧱 2021 Goal: Become a expert within a new technology & explore a new part of the world!
-- 👟 Fun Fact: I love learning about finance and economics & I am definitely a sneakerhead.
+- 👟 Fun Fact: I love learning about finance and economics & definitely a sneakerhead.
 
 </p>
 
